@@ -190,5 +190,230 @@
     {
         "prompt": "What are some common types of skin conditions?",
         "response": "Common types of skin conditions include acne, eczema, and psoriasis."
+    },
+    {
+        "prompt": "What are some popular social media platforms?",
+        "response": "Some popular social media platforms include Facebook, Instagram, and Twitter."
+    },
+    {
+        "prompt": "What are some common interview questions?",
+        "response": "Common interview questions include 'Tell me about yourself,' 'What are your strengths and weaknesses?' and 'Why do you want to work for this company?'"
+    },
+    {
+        "prompt": "What are some good movies to watch for a romantic date night?",
+        "response": "Some good movies to watch for a romantic date night include 'The Notebook,' 'Crazy Rich Asians,' and 'La La Land.'"
+    },
+    {
+        "prompt": "What are some common types of allergies?",
+        "response": "Common types of allergies include hay fever, food allergies, and allergic reactions to medication."
+    },
+    {
+        "prompt": "What are some tips for saving money?",
+        "response": "Some tips for saving money include creating a budget, reducing expenses, and setting financial goals."
+    },
+    {
+        "prompt": "What are some good places to travel in Asia?",
+        "response": "Some good places to travel in Asia include Tokyo, Bali, and Bangkok."
+    },
+    {
+        "prompt": "What are some common types of mental health disorders?",
+        "response": "Common types of mental health disorders include depression, anxiety disorders, and bipolar disorder."
+    },
+    {
+        "prompt": "What are some tips for reducing stress?",
+        "response": "Some tips for reducing stress include practicing relaxation techniques, getting regular exercise, and taking breaks to do things you enjoy."
+    },
+    {
+        "prompt": "What are some good books to read for mystery fans?",
+        "response": "Some good books to read for mystery fans include 'The Girl with the Dragon Tattoo,' 'Gone Girl,' and 'The Da Vinci Code.'"
+    },
+    {
+        "prompt": "What are some common types of cancer?",
+        "response": "Common types of cancer include lung cancer, breast cancer, and prostate cancer."
+    },
+    {
+        "prompt": "What are some tips for staying focused while studying?",
+        "response": "Some tips for staying focused while studying include setting study goals, creating a study schedule, and eliminating distractions."
+    },
+    {
+        "prompt": "What are some good places to visit in South America?",
+        "response": "Some good places to visit in South America include Rio de Janeiro, Machu Picchu, and Buenos Aires."
+    },
+    {
+        "prompt": "What are some common types of sleep disorders?",
+        "response": "Common types of sleep disorders include insomnia, sleep apnea, and narcolepsy."
+    },
+    {
+        "prompt": "What are some tips for improving your memory?",
+        "response": "Some tips for improving your memory include getting enough sleep, staying mentally active, and practicing mnemonic devices."
+    },
+    {
+        "prompt": "What are some good recipes for vegetarian meals?",
+        "response": "You can try making a vegetarian lasagna or a quinoa salad with roasted vegetables."
+    },
+    {
+        "prompt": "What are some common types of digestive problems?",
+        "response": "Common types of digestive problems include acid reflux, irritable bowel syndrome, and constipation."
+    },
+    {
+        "prompt": "What are some tips for staying productive while working from home?",
+        "response": "Some tips for staying productive while working from home include creating a designated workspace, sticking to a routine, and taking regular breaks."
+    },
+
+    {
+        "prompt": "What are some common types of computer viruses?",
+        "response": "Common types of computer viruses include Trojan horses, worms, and ransomware."
+    },
+    {
+        "prompt": "What are some good TV shows to binge-watch?",
+        "response": "Some good TV shows to binge-watch include 'Breaking Bad,' 'Game of Thrones,' and 'Stranger Things.'"
+    },
+    {
+        "prompt": "What are some popular video games?",
+        "response": "Some popular video games include 'Fortnite,' 'Minecraft,' and 'Call of Duty.'"
+    },
+    {
+        "prompt": "What are some common types of food poisoning?",
+        "response": "Common types of food poisoning include salmonella, E. coli, and listeria."
+    },
+    {
+        "prompt": "What are some tips for building a strong resume?",
+        "response": "Some tips for building a strong resume include tailoring it to the job you're applying for, highlighting your accomplishments, and using strong action verbs."
+    },
+    {
+        "prompt": "What are some good places to go hiking?",
+        "response": "Some good places to go hiking include Yosemite National Park, Banff National Park, and Zion National Park."
+    },
+    {
+        "prompt": "What are some common types of heart disease?",
+        "response": "Common types of heart disease include coronary artery disease, arrhythmia, and heart failure."
+    },
+    {
+        "prompt": "What are some tips for starting a successful business?",
+        "response": "Some tips for starting a successful business include researching your market, creating a solid business plan, and networking with potential customers and partners."
+    },
+    {
+        "prompt": "What are some good places to visit in Europe?",
+        "response": "Some good places to visit in Europe include Paris, Rome, and Barcelona."
+    },
+    {
+        "prompt": "What are some common types of arthritis?",
+        "response": "Common types of arthritis include osteoarthritis, rheumatoid arthritis, and gout."
+    },
+    {
+        "prompt": "What are some tips for improving your public speaking skills?",
+        "response": "Some tips for improving your public speaking skills include practicing, speaking clearly and confidently, and engaging with your audience."
+    },
+    {
+        "prompt": "What are some good exercises for building muscle?",
+        "response": "Some good exercises for building muscle include squats, bench presses, and deadlifts."
+    },
+    {
+        "prompt": "What are some common types of skin problems?",
+        "response": "Common types of skin problems include acne, eczema, and psoriasis."
+    },
+    {
+        "prompt": "What are some tips for writing a great college application essay?",
+        "response": "Some tips for writing a great college application essay include being authentic, telling a compelling story, and editing and revising carefully."
+    },
+    {
+        "prompt": "What are some good recipes for easy weeknight dinners?",
+        "response": "You can try making a one-pan chicken and vegetable dish or a spaghetti carbonara."
+    },
+    {
+        "prompt": "What are some common types of respiratory diseases?",
+        "response": "Common types of respiratory diseases include asthma, chronic obstructive pulmonary disease (COPD), and pneumonia."
+    },
+    {
+        "prompt": "What are some popular music genres?",
+        "response": "Some popular music genres include pop, rock, and hip hop."
+    },
+    {
+        "prompt": "What are some good books to read?",
+        "response": "Some good books to read include 'To Kill a Mockingbird,' '1984,' and 'Pride and Prejudice.'"
+    },
+    {
+        "prompt": "What are some common types of mental illness?",
+        "response": "Common types of mental illness include depression, anxiety, and bipolar disorder."
+    },
+    {
+        "prompt": "What are some tips for studying effectively?",
+        "response": "Some tips for studying effectively include taking breaks, using active studying techniques, and staying organized."
+    },
+    {
+        "prompt": "What are some good destinations for a beach vacation?",
+        "response": "Some good destinations for a beach vacation include Hawaii, the Caribbean, and the Maldives."
+    },
+    {
+        "prompt": "What are some common types of cancer?",
+        "response": "Common types of cancer include lung cancer, breast cancer, and prostate cancer."
+    },
+    {
+        "prompt": "What are some tips for staying healthy and fit?",
+        "response": "Some tips for staying healthy and fit include exercising regularly, eating a balanced diet, and getting enough sleep."
+    },
+    {
+        "prompt": "What are some good movies to watch?",
+        "response": "Some good movies to watch include 'The Godfather,' 'Forrest Gump,' and 'The Shawshank Redemption.'"
+    },
+    {
+        "prompt": "What are some common types of allergies?",
+        "response": "Common types of allergies include hay fever, food allergies, and drug allergies."
+    },
+    {
+        "prompt": "What are some tips for saving money?",
+        "response": "Some tips for saving money include setting a budget, tracking your expenses, and looking for ways to cut back on unnecessary spending."
+    },
+    {
+        "prompt": "What are some good places to go on a road trip?",
+        "response": "Some good places to go on a road trip include the Pacific Coast Highway, Route 66, and the Great Ocean Road in Australia."
+    },
+    {
+        "prompt": "What are some common types of eye problems?",
+        "response": "Common types of eye problems include cataracts, glaucoma, and macular degeneration."
+    },
+    {
+        "prompt": "What are some tips for finding a job?",
+        "response": "Some tips for finding a job include networking, updating your resume, and researching companies."
+    },
+    {
+        "prompt": "What are some good recipes for breakfast?",
+        "response": "You can try making a breakfast burrito or a breakfast casserole."
+    },
+    {
+        "prompt": "What are some common types of dental problems?",
+        "response": "Common types of dental problems include cavities, gingivitis, and tooth decay."
+    },
+    {
+        "prompt": "What are some tips for improving your writing skills?",
+        "response": "Some tips for improving your writing skills include reading widely, writing every day, and keeping a journal."
+    },
+    {
+        "prompt": "What are some good recipes for desserts?",
+        "response": "You can try making a chocolate cake or a chocolate chip cookie."
+    },
+    {
+        "prompt": "What are some common types of autoimmune diseases?",
+        "response": "Common types of autoimmune diseases include rheumatoid arthritis, lupus, and type 1 diabetes."
+    },
+    {
+        "prompt": "What are some tips for improving your mental health?",
+        "response": "Some tips for improving your mental health include exercising regularly, eating a healthy diet, and getting enough sleep."
+    },
+    {
+        "prompt": "What are some good recipes for healthy meals?",
+        "response": "You can try making a quinoa salad with roasted vegetables or a one-pan chicken and vegetable dish."
+    },
+    {
+        "prompt": "What are some common types of neurological disorders?",
+        "response": "Common types of neurological disorders include Alzheimer's disease, Parkinson's disease, and multiple sclerosis."
+    },
+    {
+        "prompt": "What are some tips for improving your sleep?",
+        "response": "Some tips for improving your sleep include creating a bedtime routine, avoiding caffeine and alcohol, and getting regular exercise."
+    },
+    {
+        "prompt": "What are some good recipes for snacks?",
+        "response": "You can try making a fruit smoothie or a cheese plate."
     }
 ]
