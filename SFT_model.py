@@ -8,13 +8,13 @@ from transformers import GPT2Tokenizer, GPT2LMHeadModel, GPT2Config
 
 class SFTModel(GPT2LMHeadModel):
     def __init__(self):
-        super().__init__()
         configuration = GPT2Config.from_pretrained(
             'gpt2', output_hidden_states=False)
+        super().__init__(config=configuration)
         self.tokenizer = GPT2Tokenizer.from_pretrained(
             "gpt2", config=configuration)  # Load the tokenizer
-        self.device = torch.device(
-            "cuda:0" if torch.cuda.is_available() else "cpu")
+        self.to(torch.device(
+            "cuda:0" if torch.cuda.is_available() else "cpu"))
         self.to(self.device)  # Move the model to the GPU
 
     def forward(self, prompt, response):
@@ -37,7 +37,7 @@ class SFTModel(GPT2LMHeadModel):
         attention_mask = attention_mask.to(self.device)
 
         # Run the model
-        outputs = self(
+        outputs = super().forward(
             input_ids=input_ids,
             labels=labels,
             attention_mask=attention_mask,
