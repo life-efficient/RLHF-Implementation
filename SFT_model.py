@@ -74,7 +74,7 @@ class SFTDataset(torch.utils.data.Dataset):
 def train_and_save_SFT_model(epochs=10):
 
     # Create the model
-    model = GPT2LMHeadModel.from_pretrained("gpt2")  # Load the model
+    model = SFTModel()  # Load the model
 
     # Create the dataset and dataloader
     dataset = SFTDataset()
