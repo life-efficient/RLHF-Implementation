@@ -137,6 +137,6 @@ def train_and_save_reward_model(epochs=10):
             writer.add_scalar("Reward Model Loss/Train",
                               loss.item(), batch_idx)
             batch_idx += 1
-            torch.save(model.state_dict(),
-                       f"epoch-{epoch}-reward_model_params.pt")
+            # torch.save(model.state_dict(),
+            #            f"epoch-{epoch}-reward_model_params.pt")
     torch.save(model.state_dict(), "reward_model_params.pt")
